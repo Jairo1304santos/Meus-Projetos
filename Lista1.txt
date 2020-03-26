@@ -1,0 +1,12 @@
+Endereço git: https://github.com/Jairo1304santos/web2
+
+Controller: Dever1Controller.php
+obs: todas as controllers estão em Dever1 identificadas como ex1 - ex17
+
+Todas as rotas estão em web.php
+
+Todas as views estão na pasta Dever1.
+
+Atenciosamente,
+
+Jairo Santos.
